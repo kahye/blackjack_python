@@ -1,8 +1,5 @@
 # Collection of classes and functions for the blackjack game
 # Kahye Song 2014 April 20
-# edit to try commit 8/4/2014
-# my edit 1
-# my edit 2
 
 import random
 class Card(object):
